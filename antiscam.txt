@@ -25620,7 +25620,6 @@ discord.moderator-exam-academy.repl.co
 discord.moderatoracademy.repl.co
 discord.moderators-event.repl.co
 discord.moscow
-discord.my
 discord.newacademy.repl.co
 discord.online
 discord.org
@@ -26373,7 +26372,6 @@ discordnitro.cc
 discordnitro.cf
 discordnitro.click
 discordnitro.club
-discordnitro.co
 discordnitro.codes
 discordnitro.com
 discordnitro.fun
@@ -44797,6 +44795,7 @@ kavalayer.world
 kavalayer.xyz
 kavalevel.vip
 kavaload.top
+kavaload.vip
 kavaname.xyz
 kavanet.pro
 kavanetwork.xyz
@@ -54594,6 +54593,7 @@ omx.ezey.top
 omxmax.org
 omygod.cc
 omygod.store
+on-chain-protocol.vercel.app
 on-crypto-jobs.com
 on-cryptojob.com
 on-fmarkets.com
@@ -60037,6 +60037,7 @@ rolbox.pw
 role-assigner.com
 role-assignment.com
 role-management.com
+role-management.net
 rolecoinfx.com
 roles-kavaverify.pages.dev
 rolex-etf.vip
