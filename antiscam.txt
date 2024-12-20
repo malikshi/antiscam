@@ -32,10 +32,12 @@
 0x-11a.pages.dev
 0x-coin.xyz
 0x000-ticket-mod.rf.gd
+0x095418a82bc2439703b69fbe1210824f2247d77c.xyz
 0x1trade.com
 0x3.pages.dev
 0x4.pages.dev
 0x7mln01.com
+0xauthsaffiras.cloud
 0xboost.app
 0xboost.finance
 0xdappplus.com
@@ -2730,6 +2732,7 @@ allstocktrade.com
 allthetraffic.co.cc
 alltradeinnovative.ltd
 alltradesolution.com
+allvalidate.tech
 allwin.sandwindfx.com
 allwin008.com
 allwinbit.com
@@ -14300,6 +14303,7 @@ captchabot.pm
 captchabot.pro
 captchabot.site
 captchabot.space
+captchabot.systems
 captchabot.to
 captchabot.top
 captchabot.uno
@@ -34116,6 +34120,8 @@ foliofy-one.vercel.app
 follow.medisou.cloud
 follow.medisou.site
 followclick.pro
+fomo-checkup.web.app
+fomo-tracking.web.app
 fomocoizur.org
 fomoqecula.com
 fomotiemaz.com
@@ -44706,6 +44712,7 @@ kavaaccess.vercel.app
 kavaalinkweb.vercel.app
 kavaaweb3net.vercel.app
 kavab0t.pages.dev
+kavabank.top
 kavabank.vip
 kavabase.cloud
 kavabot-verify.pages.dev
@@ -44744,6 +44751,7 @@ kavacom.top
 kavaconnect.club
 kavaconnect.me
 kavaconnect.net
+kavaconnect.org
 kavadappflymaxpro.com
 kavadefend.xyz
 kavadefi.one
@@ -44793,9 +44801,11 @@ kavalaunch.vip
 kavalaunch.xyz
 kavalayer.world
 kavalayer.xyz
+kavalevel.top
 kavalevel.vip
 kavaload.top
 kavaload.vip
+kavamiddle.vip
 kavaname.xyz
 kavanet.pro
 kavanetwork.xyz
@@ -44808,6 +44818,7 @@ kavaplatform.com
 kavapoint.top
 kavapork.com
 kavapro.net
+kavapro.top
 kavapro.vip
 kavaprotect.net
 kavaprotect.xyz
@@ -45501,6 +45512,7 @@ krakencoin.net
 krakencoins.cc
 krakencryptotraders.com
 krakendaytrading.net
+krakenft.shop
 krakenfuturesbit.com
 krakenfuturesckf.com
 krakenfuturescrypt.com
@@ -49190,6 +49202,7 @@ mdystrust.com
 mdyxyex.com
 mdzdrq.top
 me-discord.com
+me-e6.xyz
 me-mee6.xyz
 me.shoppme.skin
 me002.com
@@ -54035,8 +54048,10 @@ oauth2-verification.xyz
 oauth2.fr
 oauthorize-captcha.xyz
 oauths-verify.xyz
+oauthsapph02.xyz
 oauthverification.xyz
 oauthverifydiscord.xyz
+oauthxsapph.xyz
 oavblr.com
 oaxaue.com
 oaxcc.jzzxgj.com
@@ -54063,6 +54078,8 @@ obitcoinex.com
 oblcx.com
 obljgbjg.com
 oblox.cam
+oblox.cc
+oblox.cm
 oblox.com.se
 obnerw.com
 obnesrw.com
@@ -56837,6 +56854,7 @@ portals-token-gaming.pages.dev
 portals-token.pages.dev
 portals-token.web.app
 portalsgaming.pages.dev
+portalsyncpro.com
 posadaladesmera.es
 poshmxehapr.com
 posibn.com
@@ -60034,6 +60052,8 @@ rokingltd.com
 rol.xlannja98.me
 rolas-legacy.store
 rolbox.pw
+role-accreditation.com
+role-accreditation.net
 role-assigner.com
 role-assignment.com
 role-management.com
@@ -61055,6 +61075,7 @@ scamrecovery.net
 scamrecoveryservices.com
 scan-orbiter.finance
 scaniatrade.com
+scannings-collab.land
 scans-collab.land
 scarlet.tronim.com
 scatejp.com
@@ -61375,6 +61396,7 @@ sedwone.realizeidealv.live
 sedwone.realizeidealv.online
 seed-nitro.com
 seedbreakgoal.live
+seedclub-captcha.com
 seeingshop.com
 seekersofparagon-xyz.pages.dev
 seekfwb.com
@@ -76260,6 +76282,7 @@ syjedf.com
 symboldata.com
 synarbitrage.com
 sync-7xr.pages.dev
+sync-chainhub.pages.dev
 sync-vulcan.xyz
 syncaccuratefx.com
 syncappauth.pages.dev
@@ -76559,6 +76582,7 @@ taoobaoo.store
 taoshopeei.com
 taotao66.com
 taotaole.cc
+tap-role.com
 tapbit-link.cloud
 tapbit-link.live
 tapbit-link.site
@@ -84666,6 +84690,7 @@ web3deeplx.cc
 web3edefi.com
 web3evaultrpcdappstools.com
 web3fmint.com
+web3fomo.pages.dev
 web3jobcord.com
 web3jobsolutions.com
 web3kavaa.vercel.app
