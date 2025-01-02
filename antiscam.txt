@@ -2202,6 +2202,7 @@ ai-tradingplatform.com
 ai-walletdapp.surge.sh
 ai-web30.com
 ai.markating.com
+ai16z-solana.com
 ai52888.com
 ai666.win
 aiaffiliatetrade.com
@@ -14286,6 +14287,7 @@ captcha-veri.com
 captcha-verification-bot.ru
 captcha-verification.xyz
 captcha-verifications.xyz
+captcha-verify.cfd
 captcha-verify.com
 captcha-verify.site
 captcha-verifys.xyz
@@ -14452,6 +14454,7 @@ captchabotwaves.net
 captchabotwavesprotocol.com
 captchabt.com
 captchacal.net
+captchacarl.cc
 captchacarl.net
 captchacarl.pro
 captchaclick.net
@@ -14520,8 +14523,12 @@ captdc.net
 capthabotverlfus.xyz
 capthabotverlfys.xyz
 capthcabot.net
+capthchabot.com
+capthchabot.org
 capthchabots.net
 capthchasbot.com
+capthchasbot.org
+capthchasbots.com
 captonefunding.com
 captrader.financial
 capultytrese.xyz
@@ -14570,6 +14577,7 @@ carlbot.site
 carlbotauth.com
 carlbotcaptcha.com
 carlcaptcha.pro
+carlgg.click
 carlosfxtrades.online
 carls.gg
 carlscaptcha.com
@@ -15351,6 +15359,7 @@ checkerskin.com
 checking-bot.ru
 checkingnotifications.org
 checkjobcrypto.online
+checks-fomo.web.app
 checkup08.biz
 checkverifybot.ru
 cheepbit.com
@@ -17127,7 +17136,6 @@ coingateio.com
 coingateos.vip
 coingatess.top
 coingblock.com
-coingecko.com
 coingeckoxcryptoexperts.online
 coingecmining.online
 coingeniusminer.com
@@ -18319,12 +18327,14 @@ colimarub.com
 collaab.land
 collab-antibot.github.io
 collab-assets.land
+collab-autorole.com
 collab-bot.xyz
 collab-certify.land
 collab-confirms.github.io
 collab-connect.io
 collab-connects.vip
 collab-discord.github.io
+collab-l2-land.com
 collab-land-access.app
 collab-land-api.app
 collab-land-dapp.com
@@ -18428,6 +18438,7 @@ com-eng.eu
 com-helpny.com
 com-lottery.club
 com-robux.club
+com-trackklv.top
 com.coinokx.ltd
 com.occoin.club
 com.shopcc.club
@@ -23404,6 +23415,7 @@ dexecoinygfch.buzz
 dexecrypto.com
 dexenos.com
 dexfhu.com
+dexfomo.web.app
 dexforttrade.ltd
 dexi-bit.com
 dexify.pro
@@ -34307,12 +34319,17 @@ follow.medisou.cloud
 follow.medisou.site
 followclick.pro
 fomo-checkup.web.app
+fomo-radar.web.app
+fomo-search.web.app
 fomo-tracking.web.app
+fomo-trade.com
+fomo-web3.web.app
 fomocoizur.org
 fomoehpkps.com
 fomoqecula.com
 fomotiemaz.com
 fomotracking.com
+fomotracking.web.app
 fomotzktrom.com
 fon-pro.com
 fond-sovest.ru
@@ -36969,6 +36986,7 @@ geniusinvestmenthub.com
 geniustarfx.com
 geniuswealthaccess.net
 genkai-cyberkongz.online
+genned.net
 gennertvse.com
 gennertvsue.com
 gennirto.org
@@ -45000,6 +45018,7 @@ kavabotverify.pages.dev
 kavabotverifys.pages.dev
 kavabrlbge.com
 kavabtc.com
+kavabuild.vip
 kavacan.vip
 kavacenter.vip
 kavachain.club
@@ -45112,6 +45131,7 @@ kavashield.org
 kavashield.pro
 kavashield.top
 kavashield.xyz
+kavashow.top
 kavasign.vip
 kavasun.com
 kavasverified.pages.dev
@@ -45143,6 +45163,7 @@ kavawebs.xyz
 kavawebverify.vercel.app
 kavaworld.club
 kavaxyz.one
+kavazone.top
 kavebrlbgefil.com
 kavebrlbgep.com
 kavebrlbgev.com
@@ -46769,6 +46790,7 @@ lidoanq.com
 lidofinance-api.pages.dev
 lidofinance.network
 lidogift.org
+lidogiveaway.web.app
 lidomax-defiplus.com
 lidomax-defipro.com
 lidopro-prodefi.com
@@ -54422,6 +54444,7 @@ oblox.cm
 oblox.com.co
 oblox.com.de
 oblox.com.es
+oblox.com.pl
 oblox.com.se
 oblox.com.ua
 obnerw.com
@@ -55248,6 +55271,7 @@ opensea-collab.vercel.app
 opensea-dropclick.vercel.app
 opensea-free-mint66.vercel.app
 opensea-freeclaim.vercel.app
+opensea-mint-box.web.app
 opensea-multiclaim.vercel.app
 opensea-nft01.vercel.app
 opensea-ntf.org
@@ -59908,6 +59932,7 @@ rnsi.cc
 ro-linked.github.io
 ro-texture.com
 ro034vs.cn
+ro0lox.com
 ro4.biz
 ro4lox.com
 ro4lox.com.pl
@@ -61819,6 +61844,7 @@ sedwone.realizeidealv.online
 seed-nitro.com
 seedbreakgoal.live
 seedclub-captcha.com
+seedclub-captcha.xyz
 seeingshop.com
 seekersofparagon-xyz.pages.dev
 seekfwb.com
@@ -64441,6 +64467,7 @@ splunk.monster
 splunkregistrar.com
 splunks.net
 splunks.pro
+splunks.xyz
 spmax.bxanys.com
 spmax.qxanys.com
 spmax.txanys.com
@@ -65033,6 +65060,7 @@ staemcommunnlty.com
 staemcommunnlty.ru
 staemcommunnty.com
 staemcommunnty.ru
+staemcommunnutly.com
 staemcommunoty.ru
 staemcommunqty.ru
 staemcommunrity.com
@@ -69611,6 +69639,7 @@ steamcomnunllty.net
 steamcomnunllty.ru
 steamcomnunlly.ru
 steamcomnunltiy.com
+steamcomnunltjy.com
 steamcomnunltly.com
 steamcomnunlty.com.ru
 steamcomnunlty.fun
@@ -70366,6 +70395,7 @@ steamconmulity.com
 steamconmulnty.ru
 steamconmulty.com
 steamconmulty.ru
+steamconmumiity.com
 steamconmumitly.ru
 steamconmumity.com
 steamconmumity.com.ru
@@ -78924,6 +78954,7 @@ tox1.io
 tox1.org
 toxbi.com
 toxelis.com
+toxicspins.com
 toymories.xyz
 toyota868.com
 toyota886.com
@@ -80318,6 +80349,7 @@ turnkeyemailbiz.net
 turnkeyforex.com
 turnstiles.investmentsleb.com
 turnstiles.ventureleb.com
+turtlecaptcha.com
 turtlite.fun
 tusd-mine.xyz
 tusde.xyz
@@ -83450,6 +83482,7 @@ verification-mee6.xyz
 verification-microsoft.com
 verification-protection.xyz
 verification-restor.ru
+verification-robot.xyz
 verification-secure.xyz
 verification-vulcan.xyz
 verification-wick.xyz
@@ -83535,6 +83568,7 @@ verifyhypixel.net
 verifyhypixel.xyz
 verifymee6.com
 verifyminecraft.com
+verifyquest-n.com
 verifyrestorecord.xyz
 verifys-securate.xyz
 verifys-validates-connect.vercel.app
@@ -84297,6 +84331,7 @@ vulcanauthentication.net
 vulcanauthentication.xyz
 vulcanblokchain.com
 vulcanbot.app
+vulcanbot.cc
 vulcanbot.wtf
 vulcanbots.net
 vulcancaptcha.xyz
@@ -86280,6 +86315,7 @@ wwiw-roblox.com
 wwm-roblox.com
 wwmarket-asia.com
 wwn-roblox.com
+wwo-roblox.com
 wwohaha.com
 wwplaycs.de
 wwr-roblox.com
@@ -86447,6 +86483,7 @@ www.claim-your-nitro.com
 www.claim.robuxat.com
 www.claimnitro.me
 www.clsiimk.com
+www.coinbasen.top
 www.coinmatecrytodfk9.top
 www.coinwin-defi.net
 www.costco-xvc.cc
