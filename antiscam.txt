@@ -14011,6 +14011,7 @@ capbitmax.com
 capbot.app
 capbot.net
 capbot.site
+capcha-bot-verify.org
 capcha-bot.co.nl
 capcha.lol
 capchainfx.com
@@ -18517,6 +18518,7 @@ community-guard.com
 community-pixelverse.net
 community-satoshivm.io
 community-tia.org
+communityartscollection.com
 communityfiledetails.com
 communitygive.site
 communityminer.fun
@@ -29576,6 +29578,7 @@ eaiphf777.cyou
 eaisecurities.com.tw
 eamazonmall.shop
 eamomex.com
+early-opensea.com
 earlydiscord.com
 earlyearnfx.xyz
 earlyflux.space
@@ -63934,6 +63937,7 @@ snxtrademax.com
 snxtradeplus.com
 snxtradepro.com
 soarglobalmarkets.com
+sobiox.com
 socaki.com
 social-invests.com
 socialblockchain.info
