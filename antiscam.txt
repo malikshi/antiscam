@@ -41175,6 +41175,7 @@ htps.solutfoundy.com
 htps.sunercn.top
 htps.tebame.buzz
 htps.tebameinto.buzz
+htpss-roblox.com
 htpss-www-roblox.com
 htrwd.com
 http-roblox.com
@@ -54466,6 +54467,7 @@ oblox.cm
 oblox.com.co
 oblox.com.de
 oblox.com.es
+oblox.com.lv
 oblox.com.pl
 oblox.com.se
 oblox.com.tr
@@ -60252,6 +60254,7 @@ roblox.mg
 roblox.miami
 roblox.mk
 roblox.ml
+roblox.mq
 roblox.mr
 roblox.mu
 roblox.mw
@@ -66155,6 +66158,7 @@ steam-storestrade.xyz
 steam-storetrade.xyz
 steam-storetrade1.xyz
 steam-support.xyz
+steam-tickets.com
 steam-tradegame.xyz
 steam-tradehome.xyz
 steam-tradeoffer.com
@@ -67778,6 +67782,7 @@ steamcommunity-rafle.com
 steamcommunity-source.xyz
 steamcommunity-source1.xyz
 steamcommunity-support.com
+steamcommunity-tickets.com
 steamcommunity-trade.xyz
 steamcommunity-tradeoffer.com
 steamcommunity-tradeoffer.ru.com
@@ -86251,6 +86256,8 @@ wvw-rablox.com
 wvw-rcblox.com
 wvw-robiox.com
 wvw-roblcx.com
+wvw-robldx.com
+wvw-robllox.com
 wvw-roblox.co
 wvw-roblox.com.de
 wvw-roblox.com.im
@@ -86269,6 +86276,7 @@ wvw.lichtblickd.com
 wvw.lichtblickr.com
 wvw.starpowerbrn.com
 wvw.stfexchangeip.com
+wvwroblox.com
 wvwv-roblox.com
 wvww-roblox.com
 wvwwv-roblox.com
@@ -87308,6 +87316,7 @@ xnymex.com
 xnzjkigo.com
 xo688oro.xyz
 xoapwl.com
+xoblox.com
 xocryptowallet.com
 xoiecn.com
 xoisole.com
