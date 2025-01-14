@@ -1,3 +1,4 @@
 apps.apple.com
 saweria.co
 coingecko.com
+ouo.io
