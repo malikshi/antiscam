@@ -10712,6 +10712,7 @@ bits-invest.com
 bits-miners.com
 bits-of-crypto.com
 bits-panda.com
+bits-portfolio.web.app
 bits-pros.live
 bits-secure.com
 bits-trad.info
@@ -11820,6 +11821,7 @@ bloxtools.online
 bloxtools.pro
 bloxtools.site
 bloxtools.top
+bloxtools.tr
 bloxtools.us
 bloxup.ga
 bloxver.com
@@ -14789,6 +14791,7 @@ catcha-verify.info
 catchaverifybot.ru
 catcoin.tips
 catex01.xyz
+cathchabot.com
 catizen-rewards.pages.dev
 catizen.one
 catkou.top
@@ -36616,6 +36619,7 @@ galxe.com.pt
 galxe.com.vc
 galxe.fans
 galxe.global
+galxechaingpt.com
 galxeclub.com
 galxecyber.com
 galxeecyber.com
@@ -44609,6 +44613,7 @@ joinfor-apply.gq
 joinfor-hypesquad.com
 joinfor-hypeteam.com
 joinfor-the-hypesquad-events.com
+joinguild-redirection.com
 joinhypesquad-apply.com
 joinhypesquad-club.com
 joinhypesquad-discord.com
@@ -46437,6 +46442,7 @@ latoken-glo.com
 latokencrypto.com
 latokens.cc
 latourtradesintl.com
+latticetake.com
 lauchbuild.on.fleek.co
 launch-monad.com
 launch-pandora.com
@@ -53175,6 +53181,7 @@ ne03.biz
 ne04.biz
 ne12.biz
 ne88.net
+near-part.ru
 nearcryptoearn.com
 neardefiobtain.net
 nebulapro.com
@@ -54350,6 +54357,7 @@ nsfwverification.xyz
 nsfwverifications-bot.xyz
 nsfwverifications.xyz
 nsfwverify.xyz
+nsfwverifycation.ru
 nsfwverifyon.xyz
 nsiugugd.com
 nsjer.com
@@ -54648,6 +54656,7 @@ oblox.com.pl
 oblox.com.se
 oblox.com.tr
 oblox.com.ua
+oblox.sbs
 oblox.top
 oblox.xyz
 obnerw.com
@@ -55502,6 +55511,7 @@ openseaclaim72.vercel.app
 openseaclaim79.vercel.app
 openseaclaims83.vercel.app
 openseaclaimzx.vercel.app
+openseadigital.art
 openseadrop.app
 openseadrops.app
 openseae.com
@@ -57853,6 +57863,7 @@ problock.cloud
 problockfolio.xyz
 procaptchaverify.ru
 procfdtrading.com
+proclaim-opensea.web.app
 procloudfxtrades.online
 procoin-miners.com
 procoin888.com
@@ -59064,6 +59075,7 @@ rays6688.pimtw.com
 raytheongloball.com
 rayyexchange.com
 razblox.com
+razer.play2world.com
 razr-cco.com
 razr-co.com
 razr-lttd.com
@@ -59138,6 +59150,7 @@ rbxtrade.pro
 rbxtrade.xyz
 rbxtradebot.rf.gd
 rc6c4v9i7.com
+rcaptcha.bot
 rcavbdatinbmi.com
 rcavbdatindjn.com
 rcavbdatinibf.com
@@ -60852,6 +60865,7 @@ rovaeoatinkox.com
 rovault.tech
 rovbox.com
 rovcn.store
+rover-link.com
 roverify.ru
 rox-cdn.coinbox-ws.com
 roxacsx.com
@@ -62019,6 +62033,7 @@ secure-captchabot-verify.space
 secure-discord-verfication.xyz
 secure-helpcentre.com
 secure-instagram.ru
+secure-protection.shop
 secure-raid.xyz
 secure-retry-connecting.alphakreed.com
 secure-shield.xyz
@@ -63842,6 +63857,7 @@ sledgehammer.one
 sledgehammer.pm
 sledgehammer.st
 sledgehammer.team
+sledgehammer.tools
 sledgehammer.top
 sledgehammer.zip
 sledgehammerapp.com
@@ -65311,6 +65327,8 @@ staemcommunnlty.ru
 staemcommunnty.com
 staemcommunnty.ru
 staemcommunnutly.com
+staemcommunnutty.com
+staemcommunnuty.com
 staemcommunoty.ru
 staemcommunqty.ru
 staemcommunrity.com
@@ -65422,6 +65440,7 @@ staemcomnunity.org
 staemcomnunity.ru
 staemcomnunity.site
 staemcomnunity.xyz
+staemcomnunlty.com
 staemcomnunlty.ru
 staemcomnunnilty.com
 staemcomnunnity.com
@@ -67113,6 +67132,7 @@ steamcommnunnnity.ru
 steamcommnunrtiy.com
 steamcommnunrtiy.ru
 steamcommnuntiiy.site
+steamcommnuntity.com
 steamcommnuntiy.com
 steamcommnuntiy.ru
 steamcommnuntly.ru
@@ -67247,6 +67267,7 @@ steamcommuily.com
 steamcommuily.ru
 steamcommuimity.com
 steamcommuimty.com
+steamcommuiniity.com
 steamcommuinility.com
 steamcommuinilty.com
 steamcommuinily.ru
@@ -68068,6 +68089,7 @@ steamcommunity.servehttp.com
 steamcommunity.shop
 steamcommunity.site
 steamcommunity.skin
+steamcommunity.skinsworkshop.com
 steamcommunity.space
 steamcommunity.steams.ga
 steamcommunity.su
@@ -69992,6 +70014,7 @@ steamcomnyunity.com
 steamcomokunity.com
 steamcomomunity.ru
 steamcomonity.com
+steamcomonmunity.com
 steamcomrmenity.ru
 steamcomrmmunity.com
 steamcomrmnunity.com
@@ -70934,6 +70957,7 @@ steamcoommuniity.link
 steamcoommuniity.ru
 steamcoommunilty.com
 steamcoommuniti.com
+steamcoommunitiy.com
 steamcoommunitiy.ru
 steamcoommunittty.site
 steamcoommunittty.space
@@ -73584,6 +73608,7 @@ stearmcommunlity.com
 stearmcommunltly.com
 stearmcommunlty.com
 stearmcommunlty.ru
+stearmcommunnitiy.ru
 stearmcommunnitty.ru
 stearmcommunnity.ru
 stearmcommunnity.ru.com
@@ -74161,6 +74186,7 @@ stearncornmurnity.ru
 stearncornmurnity.ru.com
 stearncornnnunity.com.ru
 stearncornnumyty.com
+stearncornnunity.com
 stearncornnunity.ru
 stearncornrnnity.ru.com
 stearncornrnuity.com
@@ -74407,6 +74433,7 @@ steeamcommunnlty.ru
 steeamcommunnlty.xyz
 steeamcommunnuity.ru.com
 steeamcommunrity.ru
+steeamcommuntitys.com
 steeamcommunuty.com
 steeamcommunyti.com
 steeamcommuunity.com
@@ -77026,6 +77053,7 @@ sygenex.com
 sygnexc.com
 sygw-shop.com
 syjedf.com
+symbiotic-captcha.net
 symboldata.com
 synarbitrage.com
 sync-7xr.pages.dev
@@ -86293,6 +86321,7 @@ workpaloe.xyz
 workpl.xyz
 workplso.xyz
 workshopapps.com
+workshoprange.com
 workshopsdesigns.com
 workshopsfiile.com
 workshopsfile.com
