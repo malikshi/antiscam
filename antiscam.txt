@@ -22589,6 +22589,7 @@ dappapp.world
 dappaqr.com
 dappaqr.net
 dappauthenticatortool.live
+dappblocc.pages.dev
 dappcenters.cam
 dappcrate.com
 dappeth.info
@@ -37741,6 +37742,7 @@ giveaway-discord.online
 giveaway-drops.top
 giveaway-loot.com
 giveaway-neotokyo.codes
+giveaway-pooledether.com
 giveaway-stargate.com
 giveawaybot.pw
 giveawaycs2023.pro
@@ -47454,6 +47456,7 @@ login-academy-discord.com
 login-academy-formulary.com
 login-blast-tv-giveaway.pro
 login-bughunting.com
+login-captchabot.com
 login-collab.com
 login-collab.land
 login-csgo2giveaway.site
@@ -57821,6 +57824,7 @@ privatepage.vip
 privatesinglesmeet.com
 privatewinners.com
 priviumex.com
+prize-poolstaked.net
 prize.covaxorg.net
 prizendroll.com
 prizes-navi.pro
@@ -60275,6 +60279,7 @@ robllox.fun
 robllox.one
 robllox.one.styromex.de
 robllox.sa.com
+robllox.sbs
 robllox.shop
 robllox.us
 robllox.xyz
@@ -60726,6 +60731,7 @@ rogwarfare.com
 rogxarena.com
 rohaki.com
 rohelper.online
+rohlox.sbs
 roiblox.ml
 roifx.uk
 roifxtrade.uk
@@ -61773,6 +61779,7 @@ scamhelpers.net
 scamrecovery.net
 scamrecoveryservices.com
 scan-orbiter.finance
+scan-sol.web.app
 scaniatrade.com
 scannings-collab.land
 scans-collab.land
@@ -67927,6 +67934,7 @@ steamcommunittyi.ru
 steamcommunittyru.ru
 steamcommunittys.ru
 steamcommunittyu.com
+steamcommunittyy.com
 steamcommunittyy.com.ru
 steamcommunittyy.ru
 steamcommunittyy.ru.com
