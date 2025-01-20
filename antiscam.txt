@@ -12431,6 +12431,7 @@ bot-verify-check.ru
 bot-verify-secure-online.xyz
 bot-verify.cfd
 bot-verify.fr
+bot-verify.icu
 bot-verify.xyz
 bot-verifyer.xyz
 bot-verifying.xyz
@@ -15818,6 +15819,7 @@ claimpage-saga.pages.dev
 claimpepe.co
 claimpepev2.com
 claimpolyhedra.top
+claimrectifydrops.web.app
 claimrektarb.net
 claims-bigeyes.com
 claims-hypesquad.com
@@ -32383,6 +32385,7 @@ evil-kongs.com
 evilaangel001.com
 evilpepecoin.top
 evlmvev.com
+evmtrumpmemes.com
 evo-defi.online
 evocoin.top
 evocrypto.net
@@ -37212,6 +37215,7 @@ get-reward.eu.org
 get-satoshivm.app
 get-skin.com
 get-source2invite.net
+get-trumpmeme.org
 get-users-beta.ml
 get-valorant.com
 get-valorant.pro
@@ -37305,6 +37309,7 @@ getsurgeinvest.com
 gettingsick.ru
 gettocsgo.ru
 gettrumpairdrop.web.app
+gettrumpmeme.web.app
 getusdcoin.org
 getvalorant.fun
 getviplocals1.com
@@ -38811,6 +38816,7 @@ gotournaments.ru
 gotournamentscs.ru
 gotrademkt.com
 gotradingfund.com
+gotrumpmemes.com
 gottexsave.com
 gottraders.com
 gotv-meow.com
@@ -58403,6 +58409,7 @@ pubgworker.club
 pubgyio.com
 public-event.ml
 pucvmv.top
+pudgyy10.vercel.app
 puebv.com
 puer101.com
 puer102.com
@@ -59306,6 +59313,7 @@ redexdelivery.com
 redexios.com
 redfinance.pro
 redford.im
+redirect-302.com
 redirect-hub.site
 redirect-mee.xyz
 redirectednet.xyz
@@ -72202,6 +72210,7 @@ steamtcommunity.com
 steamtcommunity.ru
 steamtcommunnity.com
 steamtest.gifts
+steamtickets-20.com
 steamtnitro.com
 steamtrade-game.xyz
 steamtrade-home.xyz
@@ -83891,6 +83900,7 @@ verifyaccount-badge.ml
 verifyaccount-for-bluetick.com
 verifyandfixdapp.pages.dev
 verifybadgeteam.com
+verifybot.cfd
 verifybot.land
 verifybot.ru
 verifycaptcha-bot.online
