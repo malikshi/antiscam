@@ -2,7 +2,7 @@ import requests
 
 # URLs of the scam lists
 LIST_URLS = [
-    "https://raw.githubusercontent.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/refs/heads/main/global-anti-scam-org-scam-urls-pihole.txt",
+    "https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/refs/heads/main/lists/wildcard_domains/scams.txt",
     "https://raw.githubusercontent.com/Discord-AntiScam/scam-links/refs/heads/main/list.txt"
 ]
 
